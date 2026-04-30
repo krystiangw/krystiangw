@@ -34,9 +34,9 @@
 
 ```
 [2023 — now]  TestGorilla              senior frontend developer
+[2016 — 2026] Cisco                    fullstack js developer
 [2022 — 2023] Xtrades                  senior frontend developer
 [2018 — 2022] HTD Health               fullstack js developer
-[2016 — 2018] Cisco                    fullstack js developer
 [2014 — 2016] Filestack (Filepicker)   software engineer
 ```
 
