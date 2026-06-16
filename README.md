@@ -1,20 +1,29 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  > whoami                                                   │
-│  krystian gwizdala :: software engineer :: krakow, poland   │
+│  krystian gwizdala :: ai engineer & full-stack :: krakow    │
 │                                                             │
 │  > cat profile.txt                                          │
-│  10+ yrs delivering web products end-to-end across          │
-│  frontend and backend. typescript, angular, node.js,        │
-│  api integrations, blockchain-related products.             │
+│  10+ yrs shipping web products end-to-end, now building     │
+│  ai agents, claude api & mcp integrations, multi-agent      │
+│  systems, rag and workflow automation. typescript,          │
+│  react, angular, node.js.                                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ### `~/stack`
 
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI_Agents-5A67D8?style=flat-square&logo=probot&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-1F8A70?style=flat-square&logo=databricks&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-FF6F00?style=flat-square&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -40,10 +49,20 @@
 [2014 — 2016] Filestack (Filepicker)   software engineer
 ```
 
-### `~/selected-project`
+### `~/selected-projects`
 
 ```
-blockchain transaction monitor & arbitrage platform   personal · 3 yrs
+mission control — multi-agent fleet monitoring & mcp   personal · ai
+└─ aggregates a fleet of agents across exchanges into one view
+└─ exposed as a custom mcp server — operated in plain english from claude
+└─ real-time alerting: failures caught in minutes, not hours
+
+ai workflow automation — inbox & calendar agent        personal · ai
+└─ claude code + claude api + mcp, runs on a schedule
+└─ triages mail, drafts replies in-voice, writes calendar events
+└─ human-in-the-loop: drafts only, never auto-sent
+
+blockchain transaction monitor & arbitrage platform    personal · 3 yrs
 └─ exchange integrations, automation, reliability controls
 └─ on-chain transaction monitoring
 └─ openclaw local ai agent for system observability
@@ -53,6 +72,7 @@ blockchain transaction monitor & arbitrage platform   personal · 3 yrs
 
 ```
 email     gwizdala.kr@gmail.com
+phone     +48 888 987 195
 linkedin  linkedin.com/in/krystiangw
 github    github.com/krystiangw
 site      krystiangw.github.io/krystiangw
